@@ -7,7 +7,7 @@
     padding: 0;
 }
 html{
-    scroll-behavior:smooth; /* by this we can scroll the page by clicking in the nav buttons and set the href id to that element which we want to reach there after  cliking the nav button*/
+    scroll-behavior:smooth; /* by this we can scroll the page by clicking in the nav buttons and set the href id to that element which we want to reach there after cliking the nav button*/
 }
 .nav-bar{
     display: flex;
@@ -191,11 +191,9 @@ html{
     font-family: 'Ubuntu', sans-serif;
 }
 .big-text1{
-   
         font-size: 67px;
         margin: 5px;
         font-family: 'Fuggles', cursive;
-    
 }
 .contact{
     background-color: #f6f5f4;
@@ -306,7 +304,6 @@ html{
     }
     .visible-resp{
         opacity: 0;
-      
     }
     .section{
         flex-direction: column-reverse;
